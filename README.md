@@ -31,14 +31,14 @@ or fork to your account and clone the forked repo
 ### 2. Install dependencies
 
 ```bash
-cd fake-api-nodejs
+cd demo_api_nodejs
 npm install
 ```
 
 or if you using yarn
 
 ```bash
-cd fake-api-nodejs
+cd demo_api_nodejs
 yarn install
 ```
 
