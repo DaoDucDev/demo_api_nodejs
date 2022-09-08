@@ -1,4 +1,4 @@
-# Fake API NodeJS
+# Demo API NodeJS
 
 Get a full fake API as soon as possible. Base on [NodeJS](https://nodejs.org/en/) + [JSON Server](https://github.com/typicode/json-server) + [Socket.IO](https://socket.io/).
 
@@ -23,7 +23,7 @@ Preview: [https://nodejs-fake-api.herokuapp.com](https://nodejs-fake-api.herokua
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/robinhuy/fake-api-nodejs.git
+git clone https://github.com/DaoDucDev/demo_api_nodejs
 ```
 
 or fork to your account and clone the forked repo
@@ -31,14 +31,14 @@ or fork to your account and clone the forked repo
 ### 2. Install dependencies
 
 ```bash
-cd fake-api-nodejs
+cd demo_api_nodejs
 npm install
 ```
 
 or if you using yarn
 
 ```bash
-cd fake-api-nodejs
+cd demo_api_nodejs
 yarn install
 ```
 
