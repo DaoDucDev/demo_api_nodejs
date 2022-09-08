@@ -1,4 +1,4 @@
-# Fake API NodeJS
+# Demo API NodeJS
 
 Get a full fake API as soon as possible. Base on [NodeJS](https://nodejs.org/en/) + [JSON Server](https://github.com/typicode/json-server) + [Socket.IO](https://socket.io/).
 
